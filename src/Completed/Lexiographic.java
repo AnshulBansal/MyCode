@@ -1,3 +1,5 @@
+package Completed;
+
 import java.util.*;
 
 public class Lexiographic {
